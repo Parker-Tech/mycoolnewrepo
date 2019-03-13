@@ -1,1 +1,2 @@
 # mycoolnewrepo
+lorem ipsum
